@@ -1,0 +1,7 @@
+com\warehouse\warehouse\entity\Duckling.class
+com\warehouse\warehouse\controller\WarehouseController.class
+com\warehouse\warehouse\constant\Color.class
+com\warehouse\warehouse\constant\Size.class
+com\warehouse\warehouse\repository\DucklingRepository.class
+com\warehouse\warehouse\service\DucklingService.class
+com\warehouse\warehouse\WarehouseApplication.class
